@@ -1,0 +1,3 @@
+import gugudan
+
+gugudan.main()
